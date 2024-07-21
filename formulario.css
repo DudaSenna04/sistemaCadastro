@@ -5,13 +5,13 @@
 
 #titulo{
     font-family: sans-serif;
-    color: #380B61;
+    color: #4B0082;
     margin-left: 7%;
 }
 
 #subtitulo{
     font-family: sans-serif;
-    color:#380B61;
+    color:#7B68EE;
     margin-left: 10%;
 }
 
@@ -20,7 +20,7 @@ fieldset{
 }
 
 body{
-    background-color: #f0f8ff;
+    background-color: #E0FFFF;
     font-family: sans-serif;
     font-size: 1em;
     color: #59429d;
